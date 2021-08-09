@@ -42,6 +42,8 @@ export default {
       ]
     }
   },
+
+  '/api/geteditorcode': {code: '123'},
   // 支持自定义函数，API 参考 express@4
   'POST /users/create': (req, res) => {
     // 添加跨域请求头

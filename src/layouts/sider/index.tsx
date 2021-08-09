@@ -59,7 +59,7 @@ const routes = {
           value: 'h'
         },{
           key: '9',
-          route: '/i',
+          route: '/hello',
           value: 'i'
         }
       ]
